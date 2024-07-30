@@ -1,4 +1,4 @@
-import 'package:conditions/conditions.dart';
+import 'package:blackbird/blackbird.dart';
 
 sealed class StringTest extends Test<String> {}
 

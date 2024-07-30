@@ -1,7 +1,7 @@
-name: conditions
-description: A simple but effective boolean logic library for Dart and Flutter
+name: blackbird
+description: A boolean logic library for Dart and Flutter, allowing you to build trees of conditions and evaluate them.
 version: 0.0.1
-repository: https://github.com/btrautmann/conditions
+repository: https://github.com/btrautmann/blackbird
 
 environment:
   sdk: ^3.3.1

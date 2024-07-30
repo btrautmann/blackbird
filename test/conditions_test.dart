@@ -1,4 +1,4 @@
-import 'package:conditions/conditions.dart';
+import 'package:blackbird/blackbird.dart';
 import 'package:test/test.dart';
 
 void main() {
