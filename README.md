@@ -8,7 +8,7 @@ A boolean logic library for Dart and Flutter, allowing you to build trees of con
 
 ## Example usage
 
-Check out the [example](example/lib/main.dart) for a simple example.
+Check out the [example](example/main.dart) for a simple example.
 
 ## Features
 
