@@ -11,7 +11,7 @@ A boolean logic library for Dart and Flutter, allowing you to build trees of con
 While there is no limit to what you can/should do with `blackbird`, it's aimed at building flexible query UIs for your applications.
 
 <p align="center">
-<img src="assets/example.png" alt="Example" width="200" style="aspect-ratio: 9 / 19.5;">
+<img src="https://raw.githubusercontent.com/btrautmann/blackbird/main/assets/example.png" alt="Example" width="200" style="aspect-ratio: 9 / 19.5;">
 </p>
 
 
