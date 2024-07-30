@@ -1,3 +1,7 @@
+## 0.0.4
+
+- Updates to `README`.
+
 ## 0.0.3
 
 - Updates to `README`.
