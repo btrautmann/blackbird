@@ -1,5 +1,5 @@
 name: conditions
-description: A starting point for Dart libraries or applications.
+description: A simple but effective boolean logic library for Dart and Flutter
 version: 0.0.1
 repository: https://github.com/btrautmann/conditions
 

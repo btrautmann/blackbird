@@ -251,8 +251,9 @@ extension NestedConditionX<T, R extends Test<T>> on NestedCondition<T, R> {
   /// Returns a list of reasons why this [NestedCondition] is invalid.
   List<InvalidConditionTreeReason> get invalidReasons {
     final reasons = <InvalidConditionTreeReason>[];
-    if (containsEmptyChild())
+    if (containsEmptyChild()) {
       reasons.add(InvalidConditionTreeReason.emptyChild);
+    }
     if (containsDuplicates()) reasons.add(InvalidConditionTreeReason.duplicate);
     return reasons;
   }
