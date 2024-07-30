@@ -23,12 +23,12 @@ void main() {
     });
 
     test('Or', () {
-      final condition = Or(
-        [
-          IsTrue(StartsWithLowerCase()),
-          IsTrue(ContainsString('One')),
-        ],
-      );
+final condition = Or(
+  [
+    IsTrue(StartsWithLowerCase()),
+    IsTrue(ContainsString('One')),
+  ],
+);
 
       expect(condition.evaluate('hello'), isTrue);
       expect(condition.evaluate('On'), isFalse);
